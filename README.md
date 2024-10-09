@@ -1,16 +1,18 @@
-## Hi there 👋
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ DevSecOps Engineer
+├─▣ Security enthusiast
+├─▣ <a href="https://blog.nerd.rocks">my Blog</a>
+│
+└───────────────────────────────▰▰▰
 
-<!--
-**dj95/dj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/dj95/zjstatus">zjstatus</a>
+├─◈ <a href="https://github.com/dj95/chaos-proxy">chaos-proxy</a>
+├─◈ <a href="https://github.com/dj95/argo-helm-updater">argo-helm-updater</a>
+├─◈ <a href="https://github.com/dj95/ba-project">project of my bachelor's thesis</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
